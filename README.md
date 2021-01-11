@@ -1,7 +1,7 @@
 # 漫画阅读器
 替代网页浏览器，专门阅读漫画的工具，无需注册完全免费
 
-## [下载](http://web.82book.com/comic.apk)
+## [下载](https://cdn.jsdelivr.net/gh/hongchacha/comic/app-comic.apk)
 
 
 ##图示
