@@ -1,7 +1,9 @@
 # 漫画阅读器
 替代网页浏览器，专门阅读漫画的工具，无需注册完全免费
 
-## [下载](https://cdn.jsdelivr.net/gh/hongchacha/comic/app-comic.apk)
+## [點此下载](https://cdn.jsdelivr.net/gh/hongchacha/comic/app-comic.apk)
+* [備用下载](https://github.com/hongchacha/comic/raw/main/app-comic.apk)
+* [不能安裝請下載此版](https://cdn.jsdelivr.net/gh/hongchacha/comic/app-comic-v2.apk)
 
 
 ##图示
